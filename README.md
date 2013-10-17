@@ -46,3 +46,5 @@ at CoWork Tampa on Tuesdays from 6pm - 8pm**.
 + Potential Projects list is summarized in a Spreadsheet provided by [google.com](https://docs.google.com/spreadsheet/ccc?key=0Aio4lomvEFPQdFBHRklVQ3lHQUJZRlktSG9iX0lGbHc&usp=sharing "Google")
 + Project layout for the South Tampa House in a Block diagram provided by [creately.com](https://creately.com/diagram/hm9kt0ou1/NRaApdAYhVcvqgSb1monmzKFOCg%3D "Creately")
 + Project dependencies, tasks, and goals in a Mind Map diagram provide by [creately.com](https://creately.com/diagram/hmbfwvfw1/FUyCZmnVXn7egGS9qDx37XXJo%3D "Creately")
++ Meeting notes -- 10.10.2013 [google.com](https://docs.google.com/document/d/1jcnCPeb6KJ1oYI-jFShg-2sRNYmmOBsmAHAI1UQ2EhQ/edit?usp=sharing)
++ Meeting notes -- 10.15.2013 [google.com](https://docs.google.com/document/d/1xn4U_wY6BdSng07LYBR9i0IcE0pzQJqjOQ6SRTyMZZ4/edit?usp=sharing)
