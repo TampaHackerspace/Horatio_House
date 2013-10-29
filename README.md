@@ -40,11 +40,13 @@ would like to learn about implementing these, or would like to contribute your k
 major contacts directly through the **Tampabay Hackerspace Facebook group**, or attend our weekly **Open House meeting
 at CoWork Tampa on Tuesdays from 6pm - 8pm**.  
 
-###Links
+###Links to resources and documentation
 
 + Project Task management is being done using a Kanban provided by [trello.com](https://trello.com/b/iszjKC30/green-technologies-hackerspace "Trello")
 + Potential Projects list is summarized in a Spreadsheet provided by [google.com](https://docs.google.com/spreadsheet/ccc?key=0Aio4lomvEFPQdFBHRklVQ3lHQUJZRlktSG9iX0lGbHc&usp=sharing "Google")
 + Project layout for the South Tampa House in a Block diagram provided by [creately.com](https://creately.com/diagram/hm9kt0ou1/NRaApdAYhVcvqgSb1monmzKFOCg%3D "Creately")
-+ Project dependencies, tasks, and goals in a Mind Map diagram provide by [creately.com](https://creately.com/diagram/hmbfwvfw1/FUyCZmnVXn7egGS9qDx37XXJo%3D "Creately")
++ Project dependencies, tasks, and goals in a Mind Map diagram provided by [creately.com](https://creately.com/diagram/hmbfwvfw1/FUyCZmnVXn7egGS9qDx37XXJo%3D "Creately")
 + Meeting notes -- 10.10.2013 [google.com](https://docs.google.com/document/d/1jcnCPeb6KJ1oYI-jFShg-2sRNYmmOBsmAHAI1UQ2EhQ/edit?usp=sharing)
 + Meeting notes -- 10.15.2013 [google.com](https://docs.google.com/document/d/1xn4U_wY6BdSng07LYBR9i0IcE0pzQJqjOQ6SRTyMZZ4/edit?usp=sharing)
++ Meeting notes -- 10.22.2013 [google.com](https://docs.google.com/document/d/1SxWCj1POkyV58H824iJrTpDvljtOri2yMVjGoT3-3yM/edit?usp=sharing)
++ Meeting notes -- 10.29.2013 [google.com](https://docs.google.com/document/d/1Ch5v-b3zuLWw0b7H1SGwr99EthmTsU2ZBJOAl7_MLPg/edit?usp=sharing)
