@@ -47,6 +47,7 @@ at CoWork Tampa on Tuesdays from 6pm - 8pm**.
 + Project layout for the South Tampa House in a Block diagram provided by [creately.com](https://creately.com/diagram/hm9kt0ou1/NRaApdAYhVcvqgSb1monmzKFOCg%3D "Creately")
 + Project dependencies, tasks, and goals in a Mind Map diagram provided by [creately.com](https://creately.com/diagram/hmbfwvfw1/FUyCZmnVXn7egGS9qDx37XXJo%3D "Creately")
 + Release of Liability Form [google.com](https://docs.google.com/document/d/1IR0hBiEzxUc_SCn35AKSsMo6ncBKFmrsC5Mw5S48Q1g/edit?usp=sharing)
++ Memorandum of Understanding [google.com](https://docs.google.com/document/d/1FrpA8idU_L_tek5hmdPwDuUOwcq9fZsisyRljRjR8b4/edit?usp=sharing)
 + Meeting notes -- 10.10.2013 [google.com](https://docs.google.com/document/d/1jcnCPeb6KJ1oYI-jFShg-2sRNYmmOBsmAHAI1UQ2EhQ/edit?usp=sharing)
 + Meeting notes -- 10.15.2013 [google.com](https://docs.google.com/document/d/1xn4U_wY6BdSng07LYBR9i0IcE0pzQJqjOQ6SRTyMZZ4/edit?usp=sharing)
 + Meeting notes -- 10.22.2013 [google.com](https://docs.google.com/document/d/1SxWCj1POkyV58H824iJrTpDvljtOri2yMVjGoT3-3yM/edit?usp=sharing)
